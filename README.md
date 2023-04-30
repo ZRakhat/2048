@@ -10,7 +10,7 @@ You should have **python 3.6+** version and *pip*;
 Libraries **tkinter** and **random** installed.  
 
 
-As you installed the required components, simply download and open file **2048.py**. 
+As you installed the required components, simply download and open file **2048.py**.  
 (do not forget to download **high_score** file and place in the same file as **2048.py**). 
 
 Enjoy your game!
