@@ -8,6 +8,7 @@ Because after closing game highscore can't be saved, except being stored in anot
 Before getting started, following requirements should be met:  
 You should have **python 3.6+** version and *pip*;  
 Libraries **tkinter** and **random** installed.  
+(You can do it yourself or try to download **requirements.txt** and **dependecies.sh** and run second one)
 
 
 As you installed the required components, simply download and open file **2048.py**.  
