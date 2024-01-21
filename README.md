@@ -13,7 +13,7 @@ Libraries **tkinter** and **random** installed.
 As you installed the required components, simply open file **2048.py**.  
 (do not forget to download **high_score** file and place it in the same folder as **2048.py**). 
 
-<Updated>
+**Updated**
 The folder **ai_solution** was created and it contains the same game but with added functionality to it.
 I separated it by folder since it is not integrated with files in original repository.
 So if there would be any will to play using AI-like algorithm simply download the **ai_solution** folder only and open **game_display.py** file.
